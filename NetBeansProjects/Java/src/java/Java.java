@@ -9,7 +9,7 @@ package mipaquete;
  *
  * @author claudia
  */
-public class MiSegundaClase2 {
+public class MiSegundaClase3 {
 
     /**
      * @param args the command line arguments
